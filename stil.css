@@ -1,0 +1,59 @@
+body {
+
+    background-color: #F8F4F9;
+    margin: auto;
+    margin-top: 150px;
+
+}
+
+div {
+
+margin: auto;
+height: 50px;
+width: 500px;
+margin-top: 5px;
+font-size: 30px;
+text-align: center;
+line-height: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: beige;
+
+}
+
+#one {
+    background-color: #507255;
+}
+
+#two {
+    background-color: #488B49;
+}
+
+#three {
+    background-color: #4AAD52;
+}
+
+#four {
+    background-color: #6EB257;
+}
+
+#five {
+    background-color: #C5E063;
+}
+
+.boxes {
+
+cursor: pointer;
+visibility: visible;
+opacity: 0.5;
+
+
+}
+
+.boxes:hover {
+
+    background-color: #941C2F;
+    transition: 500ms;
+    width: 550px;
+    opacity: 1;
+   
+}
